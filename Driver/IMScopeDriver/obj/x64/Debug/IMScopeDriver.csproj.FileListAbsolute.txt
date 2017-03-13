@@ -1,0 +1,9 @@
+C:\Users\ivanm\Documents\Visual Studio 2013\Projects\IMScopeDriver\IMScopeDriver\bin\x64\Debug\ASCOM.IMCustom.Telescope.dll.config
+C:\Users\ivanm\Documents\Visual Studio 2013\Projects\IMScopeDriver\IMScopeDriver\bin\x64\Debug\ASCOM.IMCustom.Telescope.dll
+C:\Users\ivanm\Documents\Visual Studio 2013\Projects\IMScopeDriver\IMScopeDriver\bin\x64\Debug\ASCOM.IMCustom.Telescope.pdb
+C:\Users\ivanm\Documents\Visual Studio 2013\Projects\IMScopeDriver\IMScopeDriver\bin\x64\Debug\ASCOM.IMCustom.Telescope.tlb
+C:\Users\ivanm\Documents\Visual Studio 2013\Projects\IMScopeDriver\IMScopeDriver\obj\x64\Debug\ASCOM.IMCustom.Properties.Resources.resources
+C:\Users\ivanm\Documents\Visual Studio 2013\Projects\IMScopeDriver\IMScopeDriver\obj\x64\Debug\ASCOM.IMCustom.SetupDialogForm.resources
+C:\Users\ivanm\Documents\Visual Studio 2013\Projects\IMScopeDriver\IMScopeDriver\obj\x64\Debug\IMScopeDriver.csproj.GenerateResource.Cache
+C:\Users\ivanm\Documents\Visual Studio 2013\Projects\IMScopeDriver\IMScopeDriver\obj\x64\Debug\ASCOM.IMCustom.Telescope.dll
+C:\Users\ivanm\Documents\Visual Studio 2013\Projects\IMScopeDriver\IMScopeDriver\obj\x64\Debug\ASCOM.IMCustom.Telescope.pdb
